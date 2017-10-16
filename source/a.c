@@ -7,3 +7,8 @@ int foo2(int fb)
 {
 
 }
+
+int foo3(int fc)
+{
+
+}
