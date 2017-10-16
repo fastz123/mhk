@@ -12,3 +12,8 @@ int foo3(int fc)
 {
 
 }
+
+int foo4(int fd)
+{
+
+}
